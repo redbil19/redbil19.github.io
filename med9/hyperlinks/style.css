@@ -1,0 +1,25 @@
+:root {
+	scroll-behavior: classic;
+}
+
+body{
+	 background-color:purple;
+}
+h1 {
+	background-color: black;
+	padding: 30px;
+	font-size: 30px;
+	text-align: center;
+}
+p {
+	max-width: 600px;
+	margin: auto;
+}
+img {
+	width: 450px;
+	margin: 95px;
+	height: 400px;
+	float: center;
+	border: grey; double;
+	border-width: 50px;
+}
