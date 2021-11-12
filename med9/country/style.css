@@ -1,0 +1,41 @@
+body{
+	background-color: black;
+}
+.blue {
+	width: 2000px;
+	height: 200px;
+	background-color: blue;
+
+}
+.white {
+	width: 2000px;
+	height: 200px;
+	background-color: white;
+}
+.red {
+	width: 2000px;
+	height: 200px;
+	background-color: red;
+}
+img {
+
+width:300px;
+height: 300px;
+border: double;
+border-width: 30px;
+float: left;
+}
+p{
+	color: white;
+}
+head {
+	color: white;
+
+}
+h1 {
+	color: rgb(153, 51, 255);
+
+}
+h2 {
+	color: rgb(153, 51, 255);
+}
