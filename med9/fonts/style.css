@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Smooch&family=Sunshiney&family=Waiting+for+the+Sunrise&display=swap');
+
+body {
+	color: purple;
+	background-color: black;
+	background: linear-gradient(
+		77deg,
+
+		lightcoral 0%,
+
+		lightblue 100%
+
+		);
+
+
+}
+h1 {
+	font-family:Waiting for the Sunrise;
+	transform:rotate(180deg);
+	color: white;
+	text-align: center;
+	margin: 20px;
+	padding: 30px;
+	font-size: 50px;
+	letter-spacing: 0.5en;
+
+}
+
+p{
+	font-family: sunshiney;
+	font-size: 25px;
+	text-align: justify;
+	column-count: 1;
+	padding: 30px;
+	line-height:1.5
+
+	   }
+h2 {
+
+}
