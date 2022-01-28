@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dongle&family=Smooch&family=Sunshiney&family=Waiting+for+the+Sunrise&display=swap');
+a{	
+	padding: 50px;
+	background-color: purple;
+	font-size: 30px;
+	color: black;
+	display: inline-block;
+}
+
+body{
+	background: linear-gradient(240deg, rgba(111,29,8,1) 19%, rgba(103,111,8,1) 35%, rgba(8,111,94,1) 42%, rgba(111,106,8,1) 51%, rgba(110,110,115,1) 58%, rgba(119,119,240,1) 67%, rgba(140,240,119,1) 78%, rgba(240,119,211,1) 89%);
+    	font-family: Comforter;
+
+}
+
+img{
+	border:10px double white;
+	width: 300px;
+	height: 200px;
+	margin: 30px;
+}
