@@ -1,0 +1,57 @@
+div {
+	background-color: mediumpurple;
+	height: 500px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+
+}
+
+
+h1{
+	background-color: blanchedalmond;
+	margin: 1px;
+	padding: 5px;
+
+}
+.greenbox{
+	background-color: lightgreen;
+	height: 500px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+h2{
+	background-color: blanchedalmond;
+
+}
+.besprem{
+	background-color: aquamarine;
+	height: 500px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: flex-end;
+
+
+
+}
+img{
+	margin: 20px;
+}
+.p{
+	background: rgb(240,119,211);
+background: linear-gradient(301deg, rgba(240,119,211,1) 0%, rgba(232,224,220,1) 0%, rgba(8,6,5,1) 57%);
+height: 500px;
+display: flex;
+justify-content: space-between;
+align-items: stretch;
+}
+
+p{
+	background-color: lightblue;
+	margin: 0px;
+	padding: 20px;
+	font-size: 50px;
+	color: white;
+}
