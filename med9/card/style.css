@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Palette+Mosaic&family=Roboto:wght@100&family=Shizuru&family=Smooch+Sans:wght@200&display=swap');
+body{
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: darkgrey;
+}
+
+article .image{
+	height: 200px;
+	width: 300px;
+	background-image: url(img1.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 30px;
+}
+
+article .text{
+	height: 200px;
+	width: 300px;
+	background-color: white ;
+	padding: 30px;
+	font-family: Roboto;
+	justify-content: space-between;
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+}
+
+article .text .flower{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: darkgrey;
+	font size: 15px;
+	width: 100%;
+}
+
+article .text .flower2{
+	text-transform: uppercase;
+	font-size: 12px;
+
+}
+
+.box{
+	position:absolute ;
+	top: 235px;
+	left: 0px;
+	background-color: red;
+	color: white;
+	padding: 10px;
+	text-transform: uppercase;
+	padding: 4px;
+
+
+}
+
+article{
+	position: relative;
+}
