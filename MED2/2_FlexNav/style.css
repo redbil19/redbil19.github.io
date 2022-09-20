@@ -1,0 +1,46 @@
+nav{
+	background-color: lightgray;
+		display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 160px;
+}
+
+
+img{
+	height: 160px;
+	display: flex;
+	align-items: stretch;
+}
+
+body{
+	background-color: darkgrey;
+	font-family: calibri;
+	margin: 0;
+}
+
+nav ul{
+	display: flex;
+	padding: 20px;
+}
+
+nav ul li{
+	list-style: none;
+	margin-right: 50px;
+
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+	background-color: lightcoral;
+	padding: 20px;
+	text-transform: uppercase;
+	border-radius: 50px;
+
+}
+
+nav ul li a:hover{
+	background-color: darkgrey;
+}
